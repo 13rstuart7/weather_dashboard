@@ -1,6 +1,6 @@
 # Weather-Dashboard
 
-
+https://13rstuart7.github.io/weather_dashboard/
 
 ## User Story
 ```
@@ -14,7 +14,8 @@ weather dashboard is an application that will run in the browser and feature dyn
 It provides the city  weather- description  according to the city provided by USER.With this Application User will be able to plan 
 any trip according to the weather of the city . The Application provides 05 days forecast for more activity prevision.
 
-## Usage
+## Acceptance Criteria
+```
 - WHEN I search for a city
 --> THEN I am presented with current and future conditions for that city and that city is added to the search history
 - WHEN I view current weather conditions for that city
@@ -27,3 +28,4 @@ any trip according to the weather of the city . The Application provides 05 days
 --> THEN I am again presented with current and future conditions for that city
 - WHEN I open the weather dashboard
 --> THEN I am presented with the last searched city forecast
+```
